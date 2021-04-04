@@ -1,14 +1,44 @@
 [
-    {
+     {
         "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
-        "preview": "img/use-case-diagram.png"
+        "title": "Лабораторная работа 1",
+        "description": "Разметка личной страницы, разработка UML Use Case",
+        "preview": "https://3.bp.blogspot.com/-2rH9R3ZuM78/WrY3dWj0FKI/AAAAAAAAOIA/NEunD9JwoP0lx4Ab41tuNsnckvvT4apXgCLcBGAs/s320/%25D1%2586%25D0%25B8%25D1%2584%25D1%2580%25D1%258B%2B%25D0%25BE%25D0%25B1%25D1%258A%25D0%25B5%25D0%25BC_DoV%2B%25287%2529.png"
     },
     {
         "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
+        "title": "Лабораторная работа 2",
+        "description": "Заполнение личной страницы, разработка UML Class",
+        "preview": "https://2.bp.blogspot.com/-nOfUE8_QMbE/WrY3fI7YVBI/AAAAAAAAOIo/HqC1PRRadZYapry-q9AmgVJ3m_8H-_GxQCLcBGAs/s320/%25D1%2586%25D0%25B8%25D1%2584%25D1%2580%25D1%258B%2B%25D0%25BE%25D0%25B1%25D1%258A%25D0%25B5%25D0%25BC_DoV%2B%25288%2529.png"
+    },
+    {
+        "id": 3,
+        "title": "Лабораторная работа 3",
+        "description": "Реализация мини-приложения SPA, разработка UML Sequence",
+        "preview": "https://2.bp.blogspot.com/-D-4kRaq1HU4/WrY3iJIFDLI/AAAAAAAAOI8/y9b84zCba-oP9OuOMHDuVKk8GQR0uKVqQCLcBGAs/s320/%25D1%2586%25D0%25B8%25D1%2584%25D1%2580%25D1%258B%2B%25D0%25BE%25D0%25B1%25D1%258A%25D0%25B5%25D0%25BC_DoV%2B%25289%2529.png"
+    },
+    {
+        "id": 4,
+        "title": "Лабораторная работа 4",
+        "description": "Реализация приложения на Angular 7, разработка UML Component",
+        "preview": "https://4.bp.blogspot.com/-PCWgNz2b9qI/WrY3UZPJEAI/AAAAAAAAOHM/UPvrhifSIgggd5vXForkUUNZHaWJpALKQCLcBGAs/s320/%25D1%2586%25D0%25B8%25D1%2584%25D1%2580%25D1%258B%2B%25D0%25BE%25D0%25B1%25D1%258A%25D0%25B5%25D0%25BC_DoV%2B%25281%2529.png"
+    },
+    {
+        "id": 5,
+        "title": "Лабораторная работа 5",
+        "description": "Разработка алгоритма и описания процедуры в выбранном проекте",
+        "preview": "https://4.bp.blogspot.com/-bhHXPrmhgwk/WrY3Uawng3I/AAAAAAAAOHQ/ZaBsh6q2jB8NFEahVCGNX-DsmQr1p6nMACLcBGAs/s320/%25D1%2586%25D0%25B8%25D1%2584%25D1%2580%25D1%258B%2B%25D0%25BE%25D0%25B1%25D1%258A%25D0%25B5%25D0%25BC_DoV%2B%25282%2529.png"
+    },
+    {
+        "id": 6,
+        "title": "Лабораторная работа 6",
+        "description": "Разработка процедуры на JS в выбранном проекте",
+        "preview": "https://4.bp.blogspot.com/-DOhh8NJYvNI/WrY3eQJNVGI/AAAAAAAAOIk/QyPpXWQ6y0YoWwH-cWLU5PkbzLGMzfjsgCLcBGAs/s320/%25D1%2586%25D0%25B8%25D1%2584%25D1%2580%25D1%258B%2B%25D0%25BE%25D0%25B1%25D1%258A%25D0%25B5%25D0%25BC_DoV%2B%25283%2529.png"
+    },
+    {
+        "id": 7,
+        "title": "Лабораторная работа 7",
+        "description": "Разработка unit-теста процедуры в выбранном проекте",
+        "preview": "https://1.bp.blogspot.com/-MMXZpqzq-Sk/WrY3Yug7_OI/AAAAAAAAOHk/kfreSEwIsoU3h_R2Sb0hICRWw-2yqhtkwCLcBGAs/s320/%25D1%2586%25D0%25B8%25D1%2584%25D1%2580%25D1%258B%2B%25D0%25BE%25D0%25B1%25D1%258A%25D0%25B5%25D0%25BC_DoV%2B%25284%2529.png"
     }
 ]
