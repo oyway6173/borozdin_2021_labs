@@ -2,43 +2,43 @@
      {
         "id": 1,
         "title": "Лабораторная работа 1",
-        "description": "Разметка личной страницы, разработка UML Use Case",
+        "description": "Подготовка диаграмм IDEF0 курсового проекта",
         "preview": "https://www.flaticon.com/svg/vstatic/svg/3564/3564180.svg?token=exp=1617552010~hmac=2d318363e9257a67420889e7dc6973ef"
     },
     {
         "id": 2,
         "title": "Лабораторная работа 2",
-        "description": "Заполнение личной страницы, разработка UML Class",
+        "description": "Подготовка диаграмм DFD курсового проекта",
         "preview": "https://www.flaticon.com/svg/vstatic/svg/3564/3564186.svg?token=exp=1617552632~hmac=2bb2a9d0f4df540b50ad9ec69986c83f"
     },
     {
         "id": 3,
         "title": "Лабораторная работа 3",
-        "description": "Реализация мини-приложения SPA, разработка UML Sequence",
+        "description": "Планирование диаграмм UML курсового проекта",
         "preview": "https://www.flaticon.com/svg/vstatic/svg/3564/3564189.svg?token=exp=1617552664~hmac=5acd2a1c1aa9c24216cf207125197932"
     },
     {
         "id": 4,
         "title": "Лабораторная работа 4",
-        "description": "Реализация приложения на Angular 7, разработка UML Component",
+        "description": "Разметка личной страницы, разработка UML Use Case",
         "preview": "https://www.flaticon.com/svg/vstatic/svg/3564/3564198.svg?token=exp=1617552688~hmac=1b7096fe877f31b1723acb4778aafe94"
     },
     {
         "id": 5,
         "title": "Лабораторная работа 5",
-        "description": "Разработка алгоритма и описания процедуры в выбранном проекте",
+        "description": "Заполнение личной страницы, разработка UML Class",
         "preview": "https://www.flaticon.com/svg/vstatic/svg/3564/3564205.svg?token=exp=1617552712~hmac=db262cc1d36d2c80c2f268f2ec1f5d27"
     },
     {
         "id": 6,
         "title": "Лабораторная работа 6",
-        "description": "Разработка процедуры на JS в выбранном проекте",
+        "description": "Реализация мини-приложения SPA, разработка UML Sequence",
         "preview": "https://www.flaticon.com/svg/vstatic/svg/3564/3564211.svg?token=exp=1617552735~hmac=c34334754f059ef4f194ab38b274ddba"
     },
     {
         "id": 7,
         "title": "Лабораторная работа 7",
-        "description": "Разработка unit-теста процедуры в выбранном проекте",
+        "description": "Реализация приложения на Angular 7, разработка UML Component",
         "preview": "https://www.flaticon.com/svg/vstatic/svg/3564/3564219.svg?token=exp=1617552750~hmac=5d210a028bd5327eb50c29821118d51f"
     }
 ]
