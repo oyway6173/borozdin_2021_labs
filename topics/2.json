@@ -21,6 +21,195 @@
         {
             "type": "image",
             "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/01_A0.png" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма А1-A5"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/02_A0.png" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма A11-A13"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/03_A1.png" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма A21-A24"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/04_A2.png" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма A31-A33"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/06_A3.png" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма A41-A44"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/09_A4.png" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма A51-A53"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/13_A5n.png" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "3. Функциональное моделирование программных и информационных средств ",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Конфигурация технических средств: ПК с ОС Windows 10 или мобильное устройство для работы с сайтом, MySQL Server, Web-сервер Apache. "
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Конфигурация программных средств: трехуровневая: клиент, веб-сервер, сервер для БД"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Допустимые виды хранилищ и их размещение:** БД под управлением MySQL Server"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Автоматизация процесса А21"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/05_A21.png" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Автоматизация процесса А32"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/07_A32.png" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Автоматизация процесса А33"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/08_A33.png" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Автоматизация процесса А41"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/10_A41.png" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Автоматизация процесса А42"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/11_A42.png" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Автоматизация процесса А43"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/12_A43.png" 
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Автоматизация процесса А52"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/14_A52.png" 
         }
     ]
 }
