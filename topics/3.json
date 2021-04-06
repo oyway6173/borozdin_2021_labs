@@ -1,15 +1,6 @@
 {
-    "title": "Планирование диаграмм UML курсового проекта",
+    "title": "Создание диаграмм UML курсового проекта",
     "items": [  
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "4. Описание выбранного процесса",
-                    "class": "md-title"
-                }
-            ]
-        },
       {
             "type": "text",
             "data": [
@@ -22,155 +13,6 @@
         {
             "type": "image",
             "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/UML.png?raw=true" 
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Идентификатор прецедента: А4"
-                }
-            ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Название прецедента: Обработать данные"
-                }
-            ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Контекст: Обработка данных оператора связи"
-                }
-            ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Участники (actors) и цели (goals):"
-                }
-            ]
-        },
-        {
-            "type": "image",
-            "data":"https://github.com/oyway6173/borozdin_2021_labs/blob/master/img/table1.png?raw=true" 
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Предусловия (pre-conditions):"
-                }
-            ]
-        },
-        {
-            "type": "list",
-            "data": [
-                [{                    "text": "Условие наличия потока управления: Входные данные для обработки и запрос"
-                }],
-                [{                    "text": "Условие наличия входного потока: Минимальный набор данных об абоненте"
-                }],
-                [{                    "text": "Условие наличия потока исполнителя: Сформированные ИТ-директором параметры обработки"
-                }],
-                [{                    "text": "Условие наличия потока механизма: Информационная система"
-                }]
-            ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Постусловия (post-conditions):"
-                }
-            ]
-        },
-        {
-            "type": "list",
-            "data": [
-                [{                    "text": "Выходной поток: Обработанные данных, отчеты"
-                }]
-            ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Основной поток выполнения (main flow)"
-                }
-            ]
-        },
-        {
-            "type": "image",
-            "data":"https://github.com/oyway6173/borozdin_2021_labs/blob/master/img/table2.png?raw=true" 
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Исключения (exceptions):"
-                }
-            ]
-        },
-        {
-            "type": "image",
-            "data":"https://github.com/oyway6173/borozdin_2021_labs/blob/master/img/table3.png?raw=true" 
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Альтернативы (alternates):"
-                }
-            ]
-        },
-        {
-            "type": "image",
-            "data":"https://github.com/oyway6173/borozdin_2021_labs/blob/master/img/table4.png?raw=true" 
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Временные параметры:"
-                }
-            ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Триггер (событие, стартующее прецедент): Начало смены"
-                }
-            ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Номинальная частота повторения прецедента: Число обращений абонентов за смену"
-                }
-            ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Продолжительность прецедента:** 8 часов"
-                }
-            ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "5. Описание структуры объекта",
-                    "class": "md-title"
-                }
-            ]
         },
         {
             "type": "text",
@@ -197,15 +39,6 @@
             "type": "text",
             "data": [
                 {
-                    "text": "6. Описание алгоритма",
-                    "class": "md-title"
-                }
-            ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
                     "text": "Описываемые процессы и потоки данных: А43 Обработка запроса"
                 }
             ]
@@ -222,15 +55,6 @@
         {
             "type": "image",
             "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/UML_sequence.png?raw=true" 
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "7. Описание состава",
-                    "class": "md-title"
-                }
-            ]
         },
         {
             "type": "text",
