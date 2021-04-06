@@ -68,14 +68,14 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма UML Component",
+                    "text": "Диаграмма UML Deployment",
                     "link": "https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/UML_component.txt"
                 }
             ]
         },
         {
             "type": "image",
-            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/UML_component.png?raw=true" 
+            "data":"https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/UML_deployment.png?raw=true" 
         }
       ]
 }
