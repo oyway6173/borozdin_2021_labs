@@ -3,18 +3,18 @@
         "id": 1,
         "title": "IDEF0-диаграммы",
         "description": "Подготовка диаграмм IDEF0 курсового проекта",
-        "preview": "https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/01_A0.png"
+        "preview": "https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/01_A0.png?raw=true"
     },
     {
         "id": 2,
         "title": "DFD-диаграммы",
         "description": "Подготовка диаграмм DFD курсового проекта",
-        "preview": "https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/05_A21.png"
+        "preview": "https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/05_A21.png?raw=true"
     },
     {
         "id": 3,
         "title": "UML-диаграммы",
         "description": "Составление диаграмм UML курсового проекта",
-        "preview": "https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/UML.png"
+        "preview": "https://github.com/oyway6173/borozdin.github.io/blob/master/Kursach/UML.png?raw=true"
     }
 ]
